@@ -12,6 +12,7 @@ while True:
    print('==3.for.withdraw')
    print('==4.for...Exit')
    print('==5.for.change password or pin')
+   print("==6.for.view transaction details")
    user=int(input(' enter  your choice'))
    upin=int(input('enter your pin'))
    if upin==pin:
